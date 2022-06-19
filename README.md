@@ -1,2 +1,4 @@
-# CASO-1.-INTRODUCCI-N-A-PYTHON
-18/06/2022
+
+El proyecto se dive en 5 archivos “AMenu”, “Listas”,  “Login”, “PrpductosF”, “VentasF”
+
+AMenu es el archivo principal el resto son las funciones que se utilizan para el proyecto.
