@@ -1,3 +1,4 @@
+Dentro del los archivos el codigo esta comentado
 
 El proyecto se dive en 5 archivos “AMenu”, “Listas”,  “Login”, “ProductosF”, “VentasF”
 
